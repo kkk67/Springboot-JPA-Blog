@@ -20,12 +20,20 @@
 		
 		<!-- 추가 라이브러리 시작-->
 		<!-- 시큐리티 태그 라이브러리 -->
+<<<<<<< HEAD
 		
+=======
+		<!--
+>>>>>>> 06283bb1ce46822484bbaabb66f793bfa5117d2d
 		<dependency>
 		  <groupId>org.springframework.security</groupId>
 		  <artifactId>spring-security-taglibs</artifactId>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+		 -->
+>>>>>>> 06283bb1ce46822484bbaabb66f793bfa5117d2d
 		
 		<!-- JSP 템플릿 엔진 -->
 		<dependency>
@@ -45,12 +53,20 @@
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 		
+<<<<<<< HEAD
 
+=======
+		<!--
+>>>>>>> 06283bb1ce46822484bbaabb66f793bfa5117d2d
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>		
+<<<<<<< HEAD
 
+=======
+		 -->
+>>>>>>> 06283bb1ce46822484bbaabb66f793bfa5117d2d
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
